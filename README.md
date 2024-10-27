@@ -1,1 +1,2 @@
-HTML, CSS, JavaScript ve temel güvenlik protokollerinde bilgi sahibiyim. Açık kaynak projelere katkıda bulunmayı ve yenilikçi çözümler üretmeyi hedefliyorum.”
+Siber Güvenlik ve Dijital Güvenlik Tutkunu
+Dijital dünyayı güvence altına almak için sürekli öğrenme ve gelişme peşindeyim. Etik çerçevede siber güvenlik açıklarını keşfetmek, riskleri yönetmek ve çevrimiçi varlıkların güvenliğini sağlamak üzerine çalışıyorum. Her geçen gün güvenlik dünyasının derinliklerine inerek bilgiye katkıda bulunma arzusundayım.
