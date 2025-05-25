@@ -1,58 +1,174 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0A6EBD&center=true&vCenter=true&width=500&lines=Hello!+I'm+Enes+Yavuzarslan;Cybersecurity+Enthusiast+%F0%9F%94%90;Student+%7C+Developer" alt="Typing SVG" />
-</h1>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enes Yavuzarslan - Siber Güvenlik Portföyü</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/a2d9d6c6c1.js" crossorigin="anonymous"></script>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Orbitron', sans-serif;
+      background-color: #0e0e0e;
+      color: #f0f0f0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 20px;
+    }
+    h1 {
+      font-size: 2.8rem;
+      margin-bottom: 20px;
+      animation: fadeInDown 2s ease-out forwards;
+    }
+    @keyframes fadeInDown {
+      from { opacity: 0; transform: translateY(-40px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .certificates, .languages, .tools, .projects {
+      margin: 40px 0;
+      text-align: center;
+    }
+    .section-title {
+      font-size: 2rem;
+      margin-bottom: 20px;
+      color: #00ffc8;
+    }
+    ul {
+      list-style: none;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+    }
+    ul li {
+      background-color: #1e1e1e;
+      padding: 10px 20px;
+      border-radius: 12px;
+      font-size: 1rem;
+      transition: transform 0.3s;
+    }
+    ul li:hover {
+      transform: scale(1.05);
+      background-color: #272727;
+    }
+    .icons {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 20px;
+      margin-top: 20px;
+    }
+    .icons a {
+      color: #00ffc8;
+      font-size: 2rem;
+      transition: transform 0.3s, color 0.3s;
+    }
+    .icons a:hover {
+      transform: scale(1.2);
+      color: #00ff88;
+    }
+    .tools img {
+      width: 50px;
+      height: 50px;
+      filter: brightness(1.3);
+      transition: transform 0.3s;
+    }
+    .tools img:hover {
+      transform: scale(1.2);
+    }
+    .project-card {
+      background-color: #1e1e1e;
+      padding: 20px;
+      margin: 10px;
+      border-radius: 12px;
+      max-width: 300px;
+      text-align: center;
+    }
+    .project-links a {
+      color: #00ffc8;
+      margin: 0 10px;
+      text-decoration: none;
+    }
+    .project-links a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Enes Yavuzarslan</h1>
 
-<p align="center">
-  <b>🎓 Computer Programming Student | 🔐 Cybersecurity Learner | 👨‍💻 Tech Explorer</b><br>
-  <i>Currently learning and growing in the world of networks, systems, and ethical hacking.</i>
-</p>
+  <section class="certificates">
+    <div class="section-title">Sertifikalar</div>
+    <ul>
+      <li>Cybersecurity for Everyone - University of Maryland</li>
+      <li>Introduction to Cybersecurity - IBM</li>
+      <li>Kali Linux Board Infinity</li>
+      <li>NVIDIA Networking</li>
+      <li>Google Cybersecurity Certificate</li>
+      <li>Introduction to Cybersecurity - Cisco Networking Academy</li>
+      <li>Microsoft Cybersecurity Tools</li>
+      <li>Turkcell Pentesting Eğitimi</li>
+    </ul>
+  </section>
 
----
+  <section class="languages">
+    <div class="section-title">Bildiklerim</div>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>PHP</li>
+      <li>C</li>
+      <li>C++</li>
+      <li>C#</li>
+      <li>JavaScript</li>
+      <li>Python</li>
+    </ul>
+  </section>
 
-### 🧠 Skills & Technologies
+  <section class="tools">
+    <div class="section-title">Kullandığım Araçlar</div>
+    <div class="icons">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Kali Linux"/>
+      <img src="https://www.svgrepo.com/show/354202/vscode.svg" title="VSCode"/>
+      <img src="https://nmap.org/images/nmap-logo-256x256.png" title="Nmap"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Burp_Suite_logo.png" title="Burp Suite"/>
+      <img src="https://www.wireshark.org/assets/images/logo.png" title="Wireshark"/>
+      <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" title="Metasploit"/>
+      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker"/>
+      <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" title="VirtualBox"/>
+      <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" title="Postman"/>
+    </div>
+  </section>
 
-<p align="center">
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
-  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
-</p>
+  <section class="projects">
+    <div class="section-title">Projeler</div>
+    <div class="icons">
+      <div class="project-card">
+        <h3>Port Scan Simulator</h3>
+        <p>Port taramanın nasıl çalıştığını gösteren simülasyon.</p>
+        <div class="project-links">
+          <a href="https://github.com/enesyavuzarslann/port-scan-simulator" target="_blank">Kod</a>
+        </div>
+      </div>
+      <div class="project-card">
+        <h3>Phishing Login Sim</h3>
+        <p>Oltalama saldırısının temel yapısını simüle eder.</p>
+        <div class="project-links">
+          <a href="https://github.com/enesyavuzarslann/phishing-login-simulation" target="_blank">Kod</a>
+        </div>
+      </div>
+      <!-- Diğer projeleri buraya benzer şekilde ekleyebilirim -->
+    </div>
+  </section>
 
----
-
-### 🎓 Certificates
-
-<p align="center">
-  • Cybersecurity For Everyone – University of Maryland<br>
-  • Introduction to Cybersecurity – IBM<br>
-  • Kali Linux – Board Infinity<br>
-  • Introduction to Networking – NVIDIA<br>
-  • Cybersecurity Professional Certificate – Google<br>
-  • Introduction to Cybersecurity – Cisco Networking Academy<br>
-  • Cybersecurity Tools & Technologies – Microsoft<br>
-  • Pentesting Eğitimi – Turkcell Geleceği Yazanlar<br>
-</p>
-
----
-
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/enesyavuzarslan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/enesyavuzarslannn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@ensyazilim1" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center"><i>Thank you for visiting! 🚀</i></p>
+  <section class="icons">
+    <a href="https://github.com/enesyavuzarslann" target="_blank"><i class="fab fa-github"></i></a>
+    <a href="https://linkedin.com/in/enesyavuzarslann" target="_blank"><i class="fab fa-linkedin"></i></a>
+    <a href="https://medium.com/@enesyavuzarslann" target="_blank"><i class="fab fa-medium"></i></a>
+  </section>
+</body>
+</html>
