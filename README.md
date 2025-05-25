@@ -1,57 +1,65 @@
-<!-- GitHub Profile README - Enes Yavuzarslan -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFD9&center=true&vCenter=true&width=600&lines=Hi+I'm+Enes+Yavuzarslan;Cybersecurity+Learner+%7C+Dev+%7C+Student" alt="Typing SVG" />
-</h1>
+<h1 align="center">👋 Hello! I'm Enes Yavuzarslan</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="pointer-events: none;" alt="cyber gif" />
+  <b>Cybersecurity Enthusiast | Developer | Student</b><br>
+  <i>Learning every day, growing every step. Passionate about networks, ethical hacking, and digital defense. 🔐</i>
 </p>
 
----
-
-### 👨‍💻 About Me
+<br>
 
 <p align="center">
-  I'm a <b>Computer Programming student</b> with a growing passion for <b>Cybersecurity</b> 🔐.<br>
-  I’m currently exploring areas such as <b>Network Security</b>, <b>Ethical Hacking</b>, and <b>Digital Forensics</b>.<br>
-  My goal is to gain hands-on experience and contribute to a safer digital world.<br>
-  I believe that new opportunities and challenges in cybersecurity help me grow technically and personally.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Programming+Student;Cybersecurity+Learner;Ethical+Hacking+Enthusiast;Lifelong+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 Technologies & Tools I'm Learning
+## 🧠 About Me
+
+🎓 I'm a Computer Programming student interested in cybersecurity.  
+🔐 My focus areas include **network security**, **ethical hacking**, and **digital forensics**.  
+📚 I’m dedicated to continuous learning through practical labs and certified training.  
+🎯 My goal is to help make the digital world safer while improving my personal and professional skills.
+
+---
+
+## 📜 Certifications
+
+- Google Cybersecurity Certificate  
+- IBM Cybersecurity Analyst Certificate  
+- IBM IT Fundamentals for Cybersecurity  
+- Cisco Introduction to Cybersecurity  
+- University of Maryland – Cybersecurity for Everyone  
+- University of Maryland – Introduction to Cybersecurity Tools & Cyberattacks
+
+---
+
+## 🚀 Languages & Tools I’m Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,c,cpp,cs" alt="skills" />
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/cpp/c-language/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 📜 Certifications
+## 🌐 Connect with Me
 
-- ✅ **Google - Cybersecurity Certificate**
-- ✅ **Cisco - Introduction to Cybersecurity**
-- ✅ **IBM - Cybersecurity & IT Fundamentals**
-- ✅ **University of Maryland - Cybersecurity For Everyone**
-- ✅ **Introduction to Cybersecurity Tools & Cyberattacks**
-
----
-
-### 🌐 Social Links
-
-<p align="center" style="pointer-events: none;">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/enesyavuzarslan/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://github.com/enesyavuzarslannn" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/></a>
+  &nbsp;
+  <a href="https://medium.com/@ensyazilim1" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" title="Medium" alt="Medium" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 📌 Note
-
-> I'm still learning — this is just the beginning of a long journey in cybersecurity.  
-> I’m excited to keep building and improving every day 🚀
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:24292F&height=120&section=footer"/>
+</p>
