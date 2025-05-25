@@ -1,7 +1,8 @@
 <!-- README.md -->
 
+<!-- Yazı animasyonu düzgün çalışan versiyon -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF94&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B+I'm+Enes+Yavuzarslan;Cybersecurity+Student+%26+Learner;Always+learning+%F0%9F%93%9A;Exploring+Security%2C+Ethical+Hacking+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF94&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hello%2C+I'm+Enes+Yavuzarslan;Cybersecurity+Learner+%7C+Dev+%7C+Student" alt="Typing SVG" />
 </h1>
 
 <p align="center">
