@@ -1,73 +1,76 @@
-<h1 align="center">👋 Selam! Ben Enes Yavuzarslan</h1>
+<h1 align="center">👋 Merhaba, Ben Enes Yavuzarslan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=460&lines=Bilgisayar+Programcılığı+Öğrencisi;Siber+Güvenlik+Meraklısı;Sürekli+öğrenmeye+açık!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AFFEF&vCenter=true&width=500&lines=Siber+G%C3%BCvenlik+Merakl%C4%B1s%C4%B1y%C4%B1m!;%C3%96%C4%9Freniyorum%2C+Geli%C5%9Fiyorum...;Etik+Hacklemeye+ilgi+duyuyorum!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧾 Hakkımda
+## 🧠 Hakkımda
+Ben **Enes**, Bilgisayar Programcılığı öğrencisiyim. Siber güvenlik, etik hackleme ve ağ güvenliği gibi alanlara büyük bir ilgi duyuyorum.  
+Her geçen gün yeni şeyler öğrenmeye, kendimi geliştirmeye ve teknik becerilerimi artırmaya çalışıyorum.  
 
-Merhaba! Ben Enes, bilgisayar programcılığı öğrencisiyim.  
-Siber güvenlik alanına büyük ilgi duyuyorum ve bu alanda kendimi sürekli geliştirmeye çalışıyorum.
-
-🔹 **Ağ güvenliği**, **etik hackleme**, ve **dijital adli bilişim** gibi alanlara özel merakım var.  
-🔹 Henüz yolun başındayım ama öğrenme hevesim yüksek.  
-🔹 Sertifikalar ve gerçek dünya projeleriyle bilgilerimi pekiştiriyorum.  
-
-> "Güvenli bir dijital dünya için küçük ama sağlam adımlar atıyorum."
+🛠️ Proje üretmek, açık kaynak dünyasına katkı sunmak ve güvenlik odaklı araçlar geliştirmek en büyük hedeflerimden biri.
 
 ---
 
-### 🛠️ Kullandığım / Öğrendiğim Teknolojiler
+## 🧰 Kullandığım Teknolojiler
 
-```bash
-Diller:
-  • HTML / CSS / JavaScript
-  • Python / PHP
-  • C / C++ / C#
-
-İlgi Alanlarım:
-  • Siber Güvenlik
-  • Web Güvenliği
-  • Sosyal Mühendislik Simülasyonları
-  • Port Tarama Projeleri
-```
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-### 📌 Şu Anda Üzerinde Çalıştığım
+## 💡 İlgi Alanlarım
 
-- 🔐 Basit bir port tarama simülasyonu (HTML, JS)
-- 📚 Coursera ve Cisco'dan siber güvenlik eğitimleri
-- 🧠 Temel ağ protokolleri ve güvenlik araçlarını öğrenme
+- 🛡️ Siber Güvenlik ve Etik Hackleme  
+- 🌐 Ağ Güvenliği  
+- 🧠 Sosyal Mühendislik  
+- 🔍 Güvenlik Taramaları (Port Scanner, Vulnerability Check)  
+- 🖥️ Terminal tabanlı araçlar & simülasyonlar  
 
 ---
 
-### 🌐 Beni Takip Et
+## 📚 Sertifikalarım
+
+- ✅ Google Cybersecurity Certificate  
+- ✅ Cisco Introduction to Cybersecurity  
+- ✅ Microsoft Cybersecurity (UMD iş birliği)  
+- ⏳ IBM Cybersecurity Fundamentals (tamamlandı, sertifika yolda)
+
+---
+
+## 🌍 Sosyal Bağlantılarım
 
 <p align="left">
   <a href="https://www.linkedin.com/in/enesyavuzarslan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/enesyavuzarslannn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://medium.com/@ensyazilim1" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" />
   </a>
 </p>
 
 ---
 
-### 🎯 Hedeflerim
+## ✨ Not
 
-- 📌 Siber güvenlik alanında temel seviye projeler geliştirmek  
-- 📌 Kendimi network ve web güvenliği konularında geliştirmek  
-- 📌 Güncel tehditleri ve saldırı türlerini takip edip pratik kazanmak  
+> 🧩 Henüz yolun başında bir öğrenciyim. Bu yolculukta bolca deniyor, öğreniyor ve gelişiyorum.  
+> Bu profilde yer alan her proje, bir sonraki adıma daha emin basmamı sağlayan bir taş.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0d1117&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0AFFEF" />
 </p>
