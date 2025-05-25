@@ -1,49 +1,42 @@
-<h1 align="center">👋 Hello! I'm Enes Yavuzarslan</h1>
+<h1 align="center">Hi 👋, I'm Enes Yavuzarslan</h1>
 
 <p align="center">
-  <b>Cybersecurity Enthusiast | Developer | Student</b><br>
-  <i>Learning every day, growing every step. Passionate about networks, ethical hacking, and digital defense. 🔐</i>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Programming+Student;Cybersecurity+Learner;Ethical+Hacking+Enthusiast;Lifelong+Tech+Explorer" alt="Typing SVG" />
+  <b>Cybersecurity Enthusiast | Developer | Computer Programming Student</b><br>
+  <i>Exploring cybersecurity, ethical hacking, and digital forensics.</i>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🎓 I'm a Computer Programming student interested in cybersecurity.  
-🔐 My focus areas include **network security**, **ethical hacking**, and **digital forensics**.  
-📚 I’m dedicated to continuous learning through practical labs and certified training.  
-🎯 My goal is to help make the digital world safer while improving my personal and professional skills.
+🎓 I'm a student in Computer Programming deeply interested in cybersecurity.<br>
+🔐 Focused on network security, ethical hacking, and digital forensics.<br>
+📈 Constantly improving through hands-on practice and international certifications.<br>
+🚀 Passionate about making the digital world a safer place.<br>
+🧩 Embracing new challenges in the cybersecurity domain as learning opportunities.
 
 ---
 
 ## 📜 Certifications
 
 - Google Cybersecurity Certificate  
-- IBM Cybersecurity Analyst Certificate  
-- IBM IT Fundamentals for Cybersecurity  
 - Cisco Introduction to Cybersecurity  
-- University of Maryland – Cybersecurity for Everyone  
-- University of Maryland – Introduction to Cybersecurity Tools & Cyberattacks
+- IBM Introduction to Cybersecurity Tools & Cyber Attacks  
+- Cybersecurity for Everyone – University of Maryland
 
 ---
 
-## 🚀 Languages & Tools I’m Learning
+## 💻 Languages I'm Learning
 
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/cpp/c-language/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
 </p>
 
 ---
@@ -51,15 +44,21 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/enesyavuzarslan/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/enesyavuzarslan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   &nbsp;
-  <a href="https://github.com/enesyavuzarslannn" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://github.com/enesyavuzarslannn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
   &nbsp;
-  <a href="https://medium.com/@ensyazilim1" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" title="Medium" alt="Medium" width="40" height="40"/></a>
+  <a href="https://medium.com/@ensyazilim1" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:24292F&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/Enesyavuzarslannn/enesyavuzarslannn/main/hacker.gif" alt="cyber" width="60%" />
 </p>
