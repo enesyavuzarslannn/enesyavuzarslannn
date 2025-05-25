@@ -7,69 +7,49 @@
 
 ---
 
-## 🧠 Hakkımda
-
-Ben Enes, siber güvenlik alanına ilgi duyan bir Bilgisayar Programcılığı öğrencisiyim.  
-Ağ güvenliği, etik hackleme ve dijital adli bilişim başlıca odak alanlarım arasında yer alıyor.  
-Kendimi sürekli öğrenme, pratik uygulamalar ve uluslararası geçerliliği olan sertifikalarla geliştiriyorum.
-
-🎯 Amacım, dijital dünyayı daha güvenli hale getirmek ve bu süreçte kişisel ve profesyonel gelişimime katkı sağlamak.  
-🚀 Siber güvenlik alanında yeni fırsatlar ve zorluklarla karşılaşmak, teknik bilgi ve becerilerimi ilerletmek en büyük motivasyonlarımdan biridir.
+### 👨‍💻 About Me
+- 🎓 I'm a Computer Programming student interested in **Cybersecurity**.
+- 🔐 My focus areas include **Network Security**, **Ethical Hacking**, and **Digital Forensics**.
+- 🧠 I enjoy constantly learning and growing through practice and certifications.
+- 🚀 My goal is to make the digital world safer while advancing my personal and professional skills.
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+### 🛠️ Languages & Tools
 
-### 💻 Programlama Dilleri
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### 🛡️ Siber Güvenlik & OSINT
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-3F4C6F?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-007ACC?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-</p>
-
-### 🌐 Web Geliştirme
-<p>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
 </p>
 
 ---
 
-## 📜 Sertifikalarım
-
-- 🎓 Google Cybersecurity Professional Certificate  
-- 🎓 Cisco Introduction to Cybersecurity  
-- 🎓 IBM Cybersecurity Fundamentals  
-- 📍 Yeni hedefim: CEH, CompTIA Security+ gibi profesyonel sertifikalar 💼
-
----
-
-## 📈 GitHub İstatistiklerim
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enesyavuzarslann&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enesyavuzarslann&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enesyavuzarslann&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesyavuzarslann&layout=compact&theme=radical" width="350"/>
 </p>
 
 ---
 
-## 📫 İletişim
+### 📫 Connect With Me
 
-📍 Türkiye  
-💼 LinkedIn: [linkedin.com/in/enes-yavuzarslan](https://www.linkedin.com/in/enes-yavuzarslan)  
-📧 Mail: enesyavuzarslan@gmail.com  
+<p align="left">
+  <a href="https://linkedin.com/in/enesyavuzarslan" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
+  </a>
+  <a href="mailto:enesyavuzarslan@example.com">
+    📧 enesyavuzarslan@example.com
+  </a>
+</p>
 
 ---
 
-<p align="center">
-  💻 "Siber güvenlik bir meslek değil, bir yaşam biçimidir."  
-</p>
+<p align="center">💻 Always learning, always building. Let's secure the future! 🔐</p>
