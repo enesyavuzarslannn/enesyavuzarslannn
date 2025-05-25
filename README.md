@@ -18,56 +18,38 @@
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
   <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
 </p>
 
 ---
 
-### ⚙️ Tools & Platforms
+### 🛠️ Cybersecurity Tools I Use
 
 <p align="center">
-  <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/></a>
-  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp%20Suite-FF7139?style=for-the-badge&logo=burpsuite&logoColor=white"/></a>
+  <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/></a>
+  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white"/></a>
+  <a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge&logo=gnometerminal&logoColor=white"/></a>
+  <a href="https://www.netdiscover.org/" target="_blank"><img src="https://img.shields.io/badge/Netdiscover-2B2B2B?style=for-the-badge&logo=internetexplorer&logoColor=white"/></a>
+  <a href="https://bettercap.org/" target="_blank"><img src="https://img.shields.io/badge/Bettercap-CC0000?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
-  <a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white"/></a>
-  <a href="https://www.bettercap.org/" target="_blank"><img src="https://img.shields.io/badge/Bettercap-black?style=for-the-badge"/></a>
-  <a href="https://github.com/alexxy/netdiscover" target="_blank"><img src="https://img.shields.io/badge/Netdiscover-4B4B4B?style=for-the-badge"/></a>
-  <a href="https://mac.getutm.app/" target="_blank"><img src="https://img.shields.io/badge/UTM%20(QEMU)-FF355E?style=for-the-badge&logo=qemu&logoColor=white"/></a>
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/></a>
-  <a href="https://www.tcpdump.org/" target="_blank"><img src="https://img.shields.io/badge/TCPDump-333333?style=for-the-badge"/></a>
+  <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/UTM%20(ARM)-333333?style=for-the-badge&logo=apple&logoColor=white"/></a>
 </p>
 
 ---
 
-### 📂 Projects (Educational Simulations Only)
-
-| Project | Description | Demo | Code |
-|--------|-------------|------|------|
-| 🔐 **Phishing Login Simulation** | A fake login screen for phishing awareness training. | [Demo](https://enesyavuzarslannn.github.io/phishing-login-simulation) | [Code](https://github.com/enesyavuzarslannn/phishing-login-simulation) |
-| 🛠 **Exploit Simulation UI** | Illustrates how a basic client-side exploit might behave. | [Demo](https://enesyavuzarslannn.github.io/exploit-simulation-ui) | [Code](https://github.com/enesyavuzarslannn/exploit-simulation-ui) |
-| 🎮 **Crypto Game Simulation** | A simple game to simulate crypto hashing & encryption. | [Demo](https://enesyavuzarslannn.github.io/crypto-game-simulation) | [Code](https://github.com/enesyavuzarslannn/crypto-game-simulation) |
-| 🛡 **Password Strength Simulation** | Tests password strength visually with logic. | [Demo](https://enesyavuzarslannn.github.io/password-strength-simulation) | [Code](https://github.com/enesyavuzarslannn/password-strength-simulation) |
-| 🕵️ **Keylogger Educational Simulation** | Demonstrates how keyloggers capture input. | [Demo](https://enesyavuzarslannn.github.io/keylogger-educational-simulation) | [Code](https://github.com/enesyavuzarslannn/keylogger-educational-simulation) |
-| 🔍 **Port Scan Simulator** | Simulates a terminal-like port scanning experience. | [Demo](https://enesyavuzarslannn.github.io/port-scan-simulator) | [Code](https://github.com/enesyavuzarslannn/port-scan-simulator) |
-| 📶 **Wi-Fi Security Simulator** | Teaches users about Wi-Fi attacks & defense basics. | [Demo](https://enesyavuzarslannn.github.io/wifi-security-simulator) | [Code](https://github.com/enesyavuzarslannn/wifi-security-simulator) |
-| 🧠 **Cybersecurity Quiz Mini Lab** | Quiz lab to test basic knowledge. | [Demo](https://enesyavuzarslannn.github.io/siber-guvenlik-quiz-mini-lab) | [Code](https://github.com/enesyavuzarslannn/siber-guvenlik-quiz-mini-lab) |
-
-> ⚠️ Tüm simülasyonlar **etik amaçlı eğitim içindir**, saldırı teşvik etmez.
-
----
-
-### 🏆 Certificates
+### 📜 Certificates
 
 <p align="center">
   • Cybersecurity For Everyone – University of Maryland<br>
-  • Cybersecurity Tools & Technologies – Microsoft<br>
-  • Cybersecurity Professional Certificate – Google<br>
   • Introduction to Cybersecurity – IBM<br>
-  • Introduction to Cybersecurity – Cisco Networking Academy<br>
-  • Pentesting Eğitimi – Turkcell Geleceği Yazanlar<br>
-  • Kali Linux Temelleri – Board Infinity<br>
+  • IT Fundamentals for Cybersecurity – IBM<br>
+  • Kali Linux – Board Infinity<br>
   • Introduction to Networking – NVIDIA<br>
+  • Cybersecurity Professional Certificate – Google<br>
+  • Introduction to Cybersecurity – Cisco Networking Academy<br>
+  • Cybersecurity Tools & Technologies – Microsoft<br>
+  • Pentesting Eğitimi – Turkcell Geleceği Yazanlar<br>
 </p>
 
 ---
@@ -88,4 +70,4 @@
 
 ---
 
-<p align="center"><i>Thanks for scrolling! 🔐 Stay ethical, stay curious.</i></p>
+<p align="center"><i>Thanks for visiting! 🚀 Let's break and secure things — the ethical way.</i></p>
