@@ -1,33 +1,33 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Enes+Yavuzarslan;Cybersecurity+Enthusiast;Developer+%7C+Student;Always+Learning+%E2%9C%94" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Enes+Yavuzarslan;Cybersecurity+Learner+%7C+Developer;Always+Learning+%E2%9C%94" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <b>Cybersecurity | Ethical Hacking | Forensics</b><br>
-  <i>Exploring the world of cyber threats & defense.</i>
+  <strong>🎓 Computer Programming Student & Cybersecurity Enthusiast</strong><br>
+  <em>Learning and building things one step at a time.</em>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Computer Programming student
-- 🔐 Interested in ethical hacking, digital forensics, and cybersecurity tools
-- 💡 Lifelong learner, always sharpening my skills
-- 📌 Working on simulations and hands-on security projects
+- 💻 I’m currently studying Computer Programming at Atatürk University
+- 🛡️ Interested in Cybersecurity, Ethical Hacking, and Forensics
+- ⚙️ Passionate about learning by doing – I build simple simulations
+- 📌 I focus on real-world tools & hands-on projects to grow
 
 ---
 
-## 🧾 Certifications
+## 💼 Certificates
 
-- ✅ Google Cybersecurity Certificate  
-- ✅ Cisco Introduction to Cybersecurity  
-- ✅ IBM Cybersecurity Tools & Attacks  
-- ✅ Cybersecurity for Everyone – University of Maryland
+- Google Cybersecurity Certificate  
+- Cisco Introduction to Cybersecurity  
+- IBM Cybersecurity Tools & Attacks  
+- Cybersecurity for Everyone – University of Maryland  
 
 ---
 
-## 💻 Languages & Technologies
+## 💻 Languages & Tools
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
@@ -46,22 +46,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/enesyavuzarslan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/enesyavuzarslannn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://medium.com/@ensyazilim1" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" />
   </a>
-</p>
-
----
-
-## 🕶️ Cyber Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" width="80%" alt="cyber gif" />
 </p>
