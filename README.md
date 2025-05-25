@@ -1,76 +1,67 @@
-<h1 align="center">👋 Merhaba, Ben Enes Yavuzarslan</h1>
+<h1 align="center">🛡️ Hello! I'm Enes Yavuzarslan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AFFEF&vCenter=true&width=500&lines=Siber+G%C3%BCvenlik+Merakl%C4%B1s%C4%B1y%C4%B1m!;%C3%96%C4%9Freniyorum%2C+Geli%C5%9Fiyorum...;Etik+Hacklemeye+ilgi+duyuyorum!" alt="Typing SVG" />
+  <b>Cybersecurity Student | Developer | Lifelong Learner</b><br>
+  <i>Learning to secure the digital world, step by step.</i>
 </p>
 
 ---
 
-## 🧠 Hakkımda
-Ben **Enes**, Bilgisayar Programcılığı öğrencisiyim. Siber güvenlik, etik hackleme ve ağ güvenliği gibi alanlara büyük bir ilgi duyuyorum.  
-Her geçen gün yeni şeyler öğrenmeye, kendimi geliştirmeye ve teknik becerilerimi artırmaya çalışıyorum.  
+### 📌 About Me
 
-🛠️ Proje üretmek, açık kaynak dünyasına katkı sunmak ve güvenlik odaklı araçlar geliştirmek en büyük hedeflerimden biri.
+I'm a Computer Programming student with a strong interest in **cybersecurity**, especially in areas like **network security**, **ethical hacking**, and **digital forensics**.
+
+🔍 I'm currently learning and building projects using:
+
+- 🐍 Python, 🖥️ C, C++, C#, PHP
+- 🌐 HTML, CSS, JavaScript
+
+📚 I’m passionate about understanding **how systems work**, discovering **vulnerabilities**, and learning **how to defend** against cyber threats.
 
 ---
 
-## 🧰 Kullandığım Teknolojiler
+### 🧠 Certificates
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+- Cybersecurity For Everyone (University of Maryland)
+- Introduction to Cybersecurity Tools & Cyberattacks
+
+---
+
+### 💻 Languages I Know (Still Learning...)
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
-## 💡 İlgi Alanlarım
+### 🧭 My Focus Areas
 
-- 🛡️ Siber Güvenlik ve Etik Hackleme  
-- 🌐 Ağ Güvenliği  
-- 🧠 Sosyal Mühendislik  
-- 🔍 Güvenlik Taramaları (Port Scanner, Vulnerability Check)  
-- 🖥️ Terminal tabanlı araçlar & simülasyonlar  
-
----
-
-## 📚 Sertifikalarım
-
-- ✅ Google Cybersecurity Certificate  
-- ✅ Cisco Introduction to Cybersecurity  
-- ✅ Microsoft Cybersecurity (UMD iş birliği)  
-- ⏳ IBM Cybersecurity Fundamentals (tamamlandı, sertifika yolda)
+- 🔐 Cybersecurity Fundamentals
+- 🌐 Network & Web Security
+- 🧪 Ethical Hacking Labs
+- 🧩 Bug Bounty (Exploration Phase)
+- 📜 Capture The Flag (CTF) Challenges
 
 ---
 
-## 🌍 Sosyal Bağlantılarım
+### 🌐 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/enesyavuzarslan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/enesyavuzarslannn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://medium.com/@ensyazilim1" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" />
-  </a>
+<p>
+  <a href="https://www.linkedin.com/in/enesyavuzarslan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/enesyavuzarslannn"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://medium.com/@ensyazilim1"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-
----
-
-## ✨ Not
-
-> 🧩 Henüz yolun başında bir öğrenciyim. Bu yolculukta bolca deniyor, öğreniyor ve gelişiyorum.  
-> Bu profilde yer alan her proje, bir sonraki adıma daha emin basmamı sağlayan bir taş.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0AFFEF" />
+  🚀 I believe that continuous learning, curiosity, and community are the key ingredients to growth in tech.
 </p>
