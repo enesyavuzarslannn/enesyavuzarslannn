@@ -1,52 +1,59 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=435&lines=Hello!+I'm+Enes+Yavuzarslan;Cybersecurity+Enthusiast+%7C+Developer;Welcome+to+my+GitHub+profile!+🔐" alt="Typing SVG" />
-</h1>
-
----
-
-### 🧑‍💻 Hakkımda
-
-Merhaba, ben **Enes Yavuzarslan**.  
-Bilgisayar Programcılığı öğrencisiyim ve siber güvenlik dünyasına büyük bir merak duyuyorum.  
-Ağ güvenliği, etik hackleme, dijital adli bilişim gibi alanlarla ilgileniyor; sürekli öğreniyor ve gelişiyorum.  
-
-🎯 Amacım: Kendimi teknik olarak geliştirmek ve dijital dünyayı daha güvenli hale getirmek.
-
----
-
-### ⚙️ Temel Bilgim Olan Teknolojiler
+<h1 align="center">Hey there 👋 I'm Enes Yavuzarslan</h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Developer+%7C+Learner+%7C+Thinker;Always+learning+new+things..." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔗 Bağlantılarım
+### 🧠 About Me
+Ben Enes, siber güvenlik alanına ilgi duyan bir Bilgisayar Programcılığı öğrencisiyim.  
+Ağ güvenliği, etik hackleme ve dijital adli bilişim başlıca odak alanlarım arasında yer alıyor.  
+Kendimi sürekli öğrenme, pratik uygulamalar ve uluslararası geçerliliği olan sertifikalarla geliştiriyorum.  
 
-<p align="center">
-  <a href="https://linkedin.com/in/enesyavuzarslan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+🚀 Amacım, dijital dünyayı daha güvenli hale getirmek ve bu süreçte kişisel ve profesyonel gelişimime katkı sağlamak.  
+💡 Yeni zorluklarla karşılaşmak, teknik bilgi ve becerilerimi ileri taşımak benim en büyük motivasyon kaynaklarımdan biri.
+
+---
+
+### ⚙️ Tech Stack & Skills
+
+```bash
+Diller:      HTML • CSS • JavaScript • Python • PHP • C • C++ • C#
+Alanlar:     Siber Güvenlik • Ağ Güvenliği • Dijital Adli Bilişim • Web Güvenliği
+Çalışmalar:  Sosyal mühendislik simülasyonları, port tarama araçları, güvenlik lab'ları
+```
+
+---
+
+### 🔗 Reach Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/enesyavuzarslan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:enesyavuzarslan@example.com">
-    <img src="https://img.shields.io/badge/E-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/enesyavuzarslannn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://github.com/enesyavuzarslann" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://medium.com/@ensyazilim1" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+### 📁 Currently Working On
 
-<p align="center">⚡ Kendime özgü çözümler üretmeyi ve güvenli dijital sistemler tasarlamayı seviyorum.</p>
+- 🧪 Port tarama simülasyonu projesi
+- 🛡️ Siber güvenlik eğitim projeleri
+- 🧠 IBM, Google ve Cisco destekli güvenlik eğitimleri
+
+---
+
+> 💬 “Siber güvenlik bir meslek değil, dijital dünyayı koruma yolunda verilen bir söz.”
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=120&section=footer"/>
+</p>
