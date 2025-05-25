@@ -1,12 +1,13 @@
 <!-- README.md -->
 
-<!-- Yazı animasyonu düzgün çalışan versiyon -->
+<!-- Başlık Animasyonu -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF94&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hello%2C+I'm+Enes+Yavuzarslan;Cybersecurity+Learner+%7C+Dev+%7C+Student" alt="Typing SVG" />
 </h1>
 
+<!-- Dekoratif GIF (Tıklanamaz) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="pointer-events: none;" alt="Cyber GIF">
 </p>
 
 ---
@@ -41,9 +42,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/enesyavuzarslan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/enesyavuzarslannn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://medium.com/@ensyazilim1"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/enesyavuzarslan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/enesyavuzarslannn" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://medium.com/@ensyazilim1" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
 ---
@@ -54,6 +55,7 @@ Merhaba! Ben Enes Yavuzarslan. Bilgisayar Programcılığı öğrencisiyim ve si
 
 ---
 
+<!-- Footer Görseli (Tıklanamaz) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF94,100:0085FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF94,100:0085FF&height=100&section=footer" alt="Footer Banner" style="pointer-events: none;">
 </p>
