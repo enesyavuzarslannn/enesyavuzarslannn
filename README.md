@@ -1,67 +1,58 @@
-<h1 align="center">🛡️ Hello! I'm Enes Yavuzarslan 👋</h1>
+<!-- README.md -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF94&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B+I'm+Enes+Yavuzarslan;Cybersecurity+Student+%26+Learner;Always+learning+%F0%9F%93%9A;Exploring+Security%2C+Ethical+Hacking+%F0%9F%94%90" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <b>Cybersecurity Student | Developer | Lifelong Learner</b><br>
-  <i>Learning to secure the digital world, step by step.</i>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 
 ---
 
-### 📌 About Me
+### 👨‍💻 About Me
 
-I'm a Computer Programming student with a strong interest in **cybersecurity**, especially in areas like **network security**, **ethical hacking**, and **digital forensics**.
-
-🔍 I'm currently learning and building projects using:
-
-- 🐍 Python, 🖥️ C, C++, C#, PHP
-- 🌐 HTML, CSS, JavaScript
-
-📚 I’m passionate about understanding **how systems work**, discovering **vulnerabilities**, and learning **how to defend** against cyber threats.
-
----
-
-### 🧠 Certificates
-
-- Cybersecurity For Everyone (University of Maryland)
-- Introduction to Cybersecurity Tools & Cyberattacks
-
----
-
-### 💻 Languages I Know (Still Learning...)
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p align="center">
+  I'm a <b>Computer Programming student</b> who is passionate about <b>cybersecurity</b>, especially in areas like <b>network security, ethical hacking, and digital forensics</b>. I'm currently improving myself through practical exercises and globally recognized certifications.<br><br>
+  My goal is to contribute to a safer digital world and grow both personally and professionally in this journey. I’m motivated by new challenges and opportunities in the cybersecurity domain.
 </p>
 
 ---
 
-### 🧭 My Focus Areas
+### 🧠 Languages & Technologies I’m Learning
 
-- 🔐 Cybersecurity Fundamentals
-- 🌐 Network & Web Security
-- 🧪 Ethical Hacking Labs
-- 🧩 Bug Bounty (Exploration Phase)
-- 📜 Capture The Flag (CTF) Challenges
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,c,cpp,cs&theme=light" />
+</p>
 
 ---
 
-### 🌐 Let's Connect
+### 🎓 Certifications
 
-<p>
-  <a href="https://www.linkedin.com/in/enesyavuzarslan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/enesyavuzarslannn"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://medium.com/@ensyazilim1"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+- Cybersecurity for Everyone – *University of Maryland*
+- Introduction to Cybersecurity Tools & Cyber Attacks – *IBM*
+- Google Cybersecurity Certificate – *Google/Coursera*
+- Introduction to Cybersecurity – *Cisco Networking Academy*
+- IT Fundamentals for Cybersecurity – *IBM*
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/enesyavuzarslan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/enesyavuzarslannn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://medium.com/@ensyazilim1"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
+
+---
+
+### 🇹🇷 Hakkımda Kısaca (Türkçe)
+
+Merhaba! Ben Enes Yavuzarslan. Bilgisayar Programcılığı öğrencisiyim ve siber güvenlik alanına ilgi duyuyorum. Ağ güvenliği, etik hackleme ve dijital adli bilişim konularında kendimi geliştiriyorum. Amacım, dijital dünyayı daha güvenli hale getirirken, kişisel ve profesyonel olarak da büyümek.
 
 ---
 
 <p align="center">
-  🚀 I believe that continuous learning, curiosity, and community are the key ingredients to growth in tech.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF94,100:0085FF&height=100&section=footer"/>
 </p>
